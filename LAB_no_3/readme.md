@@ -1,2 +1,1 @@
-In this experiment we have 3 bit input and two bit output 
-Truth table is already written in the document and maximum combinational delay is from a to y which is 6.761
+In this experiment we verify the truth table of our last lab by writing the test bench system verilog code and then verify our truth table using software named QuestaSim.
