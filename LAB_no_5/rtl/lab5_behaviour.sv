@@ -33,7 +33,7 @@ module lab5_behaviour(
     
     always_comb begin
        
-        {seg0, seg1, seg2, seg3, seg4, seg5, seg6, seg7} = 8'b00000000;
+        
         case (s)
               3'b000 : AN = 8'b11111110;
                     3'b001 : AN = 8'b11111101;
